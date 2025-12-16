@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "花 (Guiano Ver.)",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-16T23:31:43.562951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_花_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/02_花_Mr.Children.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_花_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_花_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/05_花_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/06_花_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/07_花_BTOB.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "花",
+      "artist": "Fujifabric",
+      "has_synced": true,
+      "path": "select/08_花_Fujifabric.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "花 -Memento-Mori-",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/09_花_-Memento-Mori-_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風、花",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/10_風、花_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風、花",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/11_風、花_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛.火.花",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/12_愛.火.花_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛.火.花",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/13_愛.火.花_張學友.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "花・ひらく夢",
+      "artist": "Taeko Onuki",
+      "has_synced": true,
+      "path": "select/14_花・ひらく夢_Taeko_Onuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "HWAA(火/花) (Chinese Ver.)",
+      "artist": "(여자)아이들",
+      "has_synced": true,
+      "path": "select/15_HWAA(火_花)_(Chinese_Ver.)_(여자)아이들.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_花_Guiano.txt"
+    }
+  ]
+}
